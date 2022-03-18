@@ -1,0 +1,8 @@
+*/Assets/
+*/Library/
+*/Logs/
+*/obj/
+*/Packages/
+*/ProjectSettings/
+*/*.sln
+
